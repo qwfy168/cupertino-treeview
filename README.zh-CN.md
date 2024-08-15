@@ -4,8 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download)
-[![Stars](https://img.shields.io/github/stars/vickyqu115/cupertino-treeview.svg)](https://github.com/vickyqu115/cupertino-treeview/stargazers)
-[![Issues](https://img.shields.io/github/issues/vickyqu115/cupertino-treeview.svg)](https://github.com/vickyqu115/cupertino-treeview/issues)
+[![Stars](https://img.shields.io/github/stars/jamesnetgroup/cupertino-treeview.svg)](https://github.com/jamesnetgroup/cupertino-treeview/stargazers)
+[![Issues](https://img.shields.io/github/issues/jamesnetgroup/cupertino-treeview.svg)](https://github.com/jamesnetgroup/cupertino-treeview/issues)
 
 ## 项目概述
 
@@ -65,7 +65,7 @@ Cupertino TreeView是一个高级CustomControl，重构并扩展了WPF的基本T
 #### 1. 克隆仓库：
 
 ```
-git clone https://github.com/vickyqu115/cupertino-treeview.git
+git clone https://github.com/jamesnetgroup/cupertino-treeview.git
 ```
 
 #### 2. 打开解决方案
@@ -634,6 +634,6 @@ The image clearly shows how the Depth value is applied, using a red dividing lin
 
 Although not covered in this article, the tutorial video explains the Depth concept in detail using animations. It also includes methods for handling selected TreeView items using ICommand in the ViewModel and solving issues related to event bubbling.
 
-The tutorial video is over an hour long, packed with detailed and in-depth content. You can watch it with English narration on YouTube and Chinese narration on Bilibili. Please support by subscribing, liking, and sharing the video to help more developers. The source code is shared as open-source on [GitHub](https://github.com/vickyqu115/cupertino-treeview), and we welcome your support through Stars, Forks, and Discussions.
+The tutorial video is over an hour long, packed with detailed and in-depth content. You can watch it with English narration on YouTube and Chinese narration on Bilibili. Please support by subscribing, liking, and sharing the video to help more developers. The source code is shared as open-source on [GitHub](https://github.com/jamesnetgroup/cupertino-treeview), and we welcome your support through Stars, Forks, and Discussions.
 
 Thank you.

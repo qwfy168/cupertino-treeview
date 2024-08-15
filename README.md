@@ -4,8 +4,8 @@ An advanced custom TreeView control implemented in WPF, offering a modern and fl
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download)
-[![Stars](https://img.shields.io/github/stars/vickyqu/cupertino-treeview.svg)](https://github.com/vickyqu/cupertino-treeview/stargazers)
-[![Issues](https://img.shields.io/github/issues/vickyqu/cupertino-treeview.svg)](https://github.com/vickyqu/cupertino-treeview/issues)
+[![Stars](https://img.shields.io/github/stars/jamesnetgroup/cupertino-treeview.svg)](https://github.com/jamesnetgroup/cupertino-treeview/stargazers)
+[![Issues](https://img.shields.io/github/issues/jamesnetgroup/cupertino-treeview.svg)](https://github.com/jamesnetgroup/cupertino-treeview/issues)
 
 ## Project Overview
 
@@ -65,7 +65,7 @@ Cupertino TreeView is an advanced CustomControl that reconstructs and extends th
 #### 1. Clone the repository:
 
 ```
-git clone https://github.com/vickyqu/cupertino-treeview.git
+git clone https://github.com/jamesnetgroup/cupertino-treeview.git
 ```
 
 #### 2. Open the solution
